@@ -1,16 +1,20 @@
 # base_data_app
 
-A new Flutter project.
+**base_data_app** — это учебный проект для управления автосалоном, включающий серверную часть на Node.js (Express + MySQL) и мобильный клиент на Flutter.
 
-## Getting Started
+## Возможности
 
-This project is a starting point for a Flutter application.
+- CRUD-операции для автомобилей, клиентов, продаж и сотрудников
+- Поиск, фильтрация и сортировка данных
+- Удобный и современный интерфейс для мобильных устройств
+- Валидация данных и защита от ошибок пользователя
+- Взаимодействие с сервером через REST API
 
-A few resources to get you started if this is your first Flutter project:
+## Стек технологий
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Backend:** Node.js, Express, MySQL
+- **Frontend:** Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Быстрый старт
+
+1. Клонируйте репозиторий:
